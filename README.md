@@ -16,5 +16,7 @@ Thisis a simple deployment
 
 ##How To Contribute
 
+Please fork this repository
+
 ##Copyright
 Anders
