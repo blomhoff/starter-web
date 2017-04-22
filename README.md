@@ -15,3 +15,6 @@ This is purpose
 Thisis a simple deployment
 
 ##How To Contribute
+
+##Copyright
+Anders
